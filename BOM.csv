@@ -1,0 +1,16 @@
+Name,Unit price (AUD),Quantity,Extended Price (AUD),Extended Price(USD),Notes,Link
+1N4148 Diodes,1.42,1,1.42,1.01,100 per pack,https://www.aliexpress.com/item/1005010653199938.html
+Hot swap sockets,2.18,1,2.18,1.56,110 per pack,https://www.aliexpress.com/item/1005002637150446.html
+Switches,2.24,1,2.24,1.6,100 per pack,https://www.aliexpress.com/item/1005005908829758.html
+Pico,0,1,0,0,Already owned,N/A
+Battery,0,1,0,0,Already owned,N/A
+OLED,1.42,1,1.042,1.01,N/A,https://www.aliexpress.com/item/1005009521427502.html
+100K resistors,0,2,0,0,Already owned,N/A
+1N5819 Diode,1.42,1,1.42,1.01,100 per pack,https://www.aliexpress.com/item/1005010137721849.html
+10uF capacitors,0,2,0,0,Already owned,N/A
+2K resistor,0,1,0,0,Already owned,N/A
+0603 Green LED,0,1,0,0,Already owned,N/A
+0603 Red LED,0,1,0,0,Already owned,N/A
+0.4 ohm resistor,0,0,0,0,I genuinely have no idea what its for so ill skip for now,N/A
+SPDT switch,0,0,0,0,TODO LATER CHANGE FOOTPRINTS
+TP4056-42-ESOP8,5.04,1,5.04,3.6,N/A,https://www.aliexpress.com/item/1005011924219161.html
