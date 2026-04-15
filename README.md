@@ -1,7 +1,8 @@
 # YetAnotherKeyboard
 This is an 80% mechanical keyboard with hot-swappable MX style switches. The design is based on a Raspberry Pi Pico W as the microcontroller.
 Alongside the standard 80% layout, there are also 4 programmable macro keys and a 1.54 inch OLED display. It accomodates a standard lithium-polymer
-battery cell - I will use a 2000mAh cell I already have on hand.
+battery cell - I will use a 2000mAh cell I already have on hand. It supports a Micro-USB connection through the Pico's onboard USB port, and wireless
+operation due to the Pico's wireless capabities. The onboard battery is charged through a TP4056 by drawing power from the pico while plugged in.
 
 ## BOM
 Total cost: 40.36 USD
