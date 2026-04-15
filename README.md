@@ -4,6 +4,12 @@ Alongside the standard 80% layout, there are also 4 programmable macro keys and 
 battery cell - I will use a 2000mAh cell I already have on hand. It supports a Micro-USB connection through the Pico's onboard USB port, and wireless
 operation due to the Pico's wireless capabities. The onboard battery is charged through a TP4056 by drawing power from the pico while plugged in.
 
+## Repo structure
+CAD files including the individual parts and full assembly can be found in `cad/`
+The KiCad PCB design files can be found in `PCB/`
+Production gerbers can be found in `PCB/production`
+Firmware can be found in `firmware/`
+
 ## BOM
 Total cost: 40.36 USD
 All parts are sourced from AliExpress.
