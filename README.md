@@ -10,7 +10,7 @@ Firmware can be found in `firmware/`
 
 ## BOM
 Total cost: 51.66 USD
-Parts sourced from AliExpress.
+Parts can all be sourced from AliExpress. Some are from local retailers in Australia but could be found on AliExpress anyway.
 
 ## PCB
 Parameters:
