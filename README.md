@@ -9,7 +9,7 @@ It also supports wireless operation with a standard lithium polymer battery. The
 - Firmware can be found in `firmware/`
 
 ## BOM
-Total cost: 51.66 USD\
+Total cost: 60.46 USD\
 Parts can all be sourced from AliExpress.
 
 ## PCB
@@ -33,9 +33,9 @@ The case is far too big to fit on a standard 256mm^3 bed. If you want to replica
 ZMK, firmware is located in a submodule, https://github.com/0x62b/YetAnotherKeyboard-config
 
 ## Cost
-Parts: 51.66 USD\
+Parts: 60.46 USD\
 PCB: 29.83 USD\
-Grand total: 81.49 USD
+Grand total: 90.29 USD (approx because of conversion rates)
 
 ## Images
 <img width="766" height="363" alt="image" src="https://github.com/user-attachments/assets/5f0af424-a6fc-41f8-9cd6-e6b933c7b1e6" />
